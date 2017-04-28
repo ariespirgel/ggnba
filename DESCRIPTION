@@ -1,7 +1,9 @@
 Package: ggnba
 Title: ggplot2 NBA Themes, Scales, and Geoms
 Version: 0.1
+Date: 2017-04-28
 Authors@R: person("Arie", "Spirgel", email = "spirgel@gmail.com", role = c("aut", "cre"))
+Maintainer: Arie Spirgel <spirgel@gmail.com>
 Description: Add NBA themes, scales, and geoms, to your ggplot2 graphs for all 30 NBA teams.
 License: GPL
 Encoding: UTF-8
