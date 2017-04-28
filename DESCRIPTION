@@ -1,10 +1,11 @@
 Package: ggnba
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.3.2)
-License: What license is it under?
+Title: ggplot2 NBA Themes, Scales, and Geoms
+Version: 0.1
+Authors@R: person("Arie", "Spirgel", email = "spirgel@gmail.com", role = c("aut", "cre"))
+Description: Add NBA themes, scales, and geoms, to your ggplot2 graphs for all 30 NBA teams.
+License: GPL
 Encoding: UTF-8
 LazyData: true
+Imports:
+  tidyverse
 RoxygenNote: 6.0.1
