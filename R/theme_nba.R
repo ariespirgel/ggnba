@@ -7,7 +7,7 @@
 #' @author Arie Spirgel
 #' @title NBA themes  for ggplot2
 #' @examples
-#' theme_tech(theme="heat")
+#' theme_nba(theme="heat")
 
 theme_nba <- function(theme="heat", nba_key = list(
                   heat = list(

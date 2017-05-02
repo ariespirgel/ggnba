@@ -4,10 +4,11 @@
 #'
 #' @export
 #' @name scale_fill_nba
+#' @import ggplot2
 #' @author Arie Spirgel
 #' @title NBA scale fill for ggplot2
 #' @examples
-#' scale_fill_tech(theme="heat")
+#' scale_fill_nba(theme="heat")
 
 
 scale_fill_nba <- function(theme = "heat", nba_key = list(

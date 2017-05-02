@@ -39,7 +39,7 @@ theme_nba(theme = "heat", nba_key = list(heat = list(colour_title =
 tech theme
 }
 \examples{
-theme_tech(theme="heat")
+theme_nba(theme="heat")
 }
 \author{
 Arie Spirgel

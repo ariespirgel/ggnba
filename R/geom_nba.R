@@ -1,5 +1,7 @@
 #' nba geom
 #' @author Arie Spirgel
+#' @import RCurl
+#' @import png
 #' @export geom_nba
 #'
 #' @export

@@ -33,7 +33,7 @@ scale_fill_nba(theme = "heat", nba_key = list(heat = c("#98002E", "#F9A01B",
 nba scale fill
 }
 \examples{
-scale_fill_tech(theme="heat")
+scale_fill_nba(theme="heat")
 }
 \author{
 Arie Spirgel
